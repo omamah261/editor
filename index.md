@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/omamah261/editor/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#**text editor**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A text editor is a piece of software that you download and install on
+your computer, or you access online through your web browser, that
+allows you to write and manage text, especially the text that you write
+to build a web site. The text editor has to be one of the most
+important tools you can use as an aspiring web developer.
 
-### Markdown
+Every computer will come with its own text editor. On Mac
+computers, the text editor that comes with your computer is called,
+“Text Edit.” On Windows computers, the text editor that comes with
+your computer is called, “Notepad.”
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##Difference Between TextEditors and IDEs
+*A text editor kind of gives away what it does in the title—it edits text.
+It also manages text, and manages files. I love that name “text
+wrangler” because in a way that’s what really a text editor does. It
+wrangles your text together into something meaningful.
+An IDE (Integrated Development Environment) is really a suite of
+different software all coming together. An IDE is a text editor, a file
+manager, a compiler, and a debugger all in one software package.
 
-```markdown
-Syntax highlighted code block
+#**Opening a Terminal
 
-# Header 1
-## Header 2
-### Header 3
+*If you're on a Mac then you'll find the program Terminal under Applications -> Utilities. An easy way to get to it is the key combination 'command + space' which will bring up Spotlight, then start typing Terminal and it will soon show up.
 
-- Bulleted
-- List
+*If on Linux then you will probably find it in Applications -> System or Applications -> Utilities. Alternatively you may be able to 'right-click' on the desktop and there may be an option 'Open in terminal'.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omamah261/editor/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*If you are on Windows and intend to remotely log into another machine then you will need an SSH client. A rather good one is putty
